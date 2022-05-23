@@ -3,7 +3,6 @@
   Data: 22/04/2018
   Autor: Fernando Soares
   "Algoritimo para calcular a area de um terreno"
-  https://github.com/FernandoDeSouzaSoares/exercicios_resolvidos.git
 */
 #include <stdio.h>
 int main(){
