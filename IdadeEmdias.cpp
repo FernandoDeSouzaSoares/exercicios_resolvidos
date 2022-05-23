@@ -1,11 +1,8 @@
 /*
   Data: 22/04/2018
   Autor: Fernando Soares
-<<<<<<< HEAD
   "Algoritimo que mostra a idade total em dias."
-=======
   Algoritimo que mostra a idade total em dias.
->>>>>>> 943f80970e59a7db5e6509da2ea63442648afdfa
 */
 #include<stdio.h>
 int main(){
